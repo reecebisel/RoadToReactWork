@@ -13,3 +13,61 @@
 - Easily switched into functional programming
 - Great community
 
+## How to learn a framework
+- Make the leap from analysis to production
+  - Tutorials often don't give more than analysis
+- You can always switch after you know javascript
+- Building real applications help you learn better
+  - As I'm reading a book about learning a framework ;P
+- Variety is key when learning
+- If consuming more isn't working, start building
+- Don't do a ToDo app, they aren't hard enough
+  - You need to actually challenge yourself
+- Learning Redux with React make the learning curve worse
+  - Mistakes were made, and I should be sure not to do that again
+- Becoming a producer on webpages can be important
+  - Help other people learn
+
+## How to learn React in 2020
+- There is no easy way to learn React
+- Start step by step
+  - Only REACT!
+  - Don't get distracted by all the JS BS in life. 
+- Learn React w/ Typescript
+  - NO WAI!
+  - Why make things harder?
+- Learn React w/ Redux?
+  - While popular, probably better to learn w/o it.
+  - Learn how to deal with state with React then add redux when it makes sense
+- Learn Gatsby?
+  - Static webpages with React?
+  - Helps make static webpages with React. 
+  - Doesn't help learn React at all
+
+## React Prerequisites
+- You have to learn JS dawg.
+- Learn ES6 javascripts
+- Best to learn by doing
+- You can learn enough JS by building React apps
+- Don't bother with jQuery. Its OLD.
+- jQuery will be around legacy apps. Congrats
+- Building apps in different JS frameworks can help reveal why you are learning.
+  - This might be my favorite peice of advice
+- React docs are a good place to start learning
+  - Opinionated
+  - Non-commercial
+  - latest material
+  - API references
+- Struggling is part of learning
+  - This for sure is one of my favorite thoughts
+- Learn React everyday
+- Learn in public
+  - Share your learning
+  - Ask for feedback
+- Get setup to learn react
+  - I'm going to do it in linux
+  - Use Javascript with Node and NPM
+  - learn with create-react-app 
+    - boiler plate built by Facebook. 
+  - Format prettier
+- Once you get the basics learn the advanced stuff
